@@ -9,8 +9,9 @@ body {
     font-family: 'Red Hat Display', sans-serif;
 }
 
-.logo {
-    color: hsl(236, 100%, 87%);
+.logo img {
+    width: 100px;
+    margin-left: 30px;
 }
 
 header {
