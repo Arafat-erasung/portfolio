@@ -186,6 +186,12 @@ h5 {
     margin-top: 20px;
 }
 
+.random-quote-generator {
+    display: flex;
+    justify-content: space-between;
+}
+
+
 .whats-next,.getintouch {
     text-align: center;
 }
